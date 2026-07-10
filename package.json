@@ -1,6 +1,6 @@
 {
   "name": "@ph-itdev/warehouse-zone-manager",
-  "version": "0.2026.0710",
+  "version": "0.2026.711",
   "description": "Manage warehouse zones, bin locations, put-away rules, and zone-based picking strategies for fulfillment automation.",
   "main": "index.js",
   "types": "index.d.ts",
