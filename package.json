@@ -1,0 +1,43 @@
+{
+  "name": "@ph-itdev/warehouse-zone-manager",
+  "version": "0.2026.0710",
+  "description": "Manage warehouse zones, bin locations, put-away rules, and zone-based picking strategies for fulfillment automation.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "type": "commonjs",
+  "bin": {
+    "warehouse-zone-manager": "bin/cli.js"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "bin/",
+    "example/",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node test.js",
+    "lint": "echo 'lint ok'",
+    "playground": "node bin/cli.js playground"
+  },
+  "keywords": [
+    "logistics",
+    "automation",
+    "shipping",
+    "supply-chain",
+    "warehouse"
+  ],
+  "author": "@ph-itdev",
+  "license": "MIT \u00a9 Nilo Besingga",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nilskie06/warehouse-zone-manager.git"
+  },
+  "homepage": "https://github.com/nilskie06/warehouse-zone-manager#readme",
+  "bugs": {
+    "url": "https://github.com/nilskie06/warehouse-zone-manager/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
