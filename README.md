@@ -28,6 +28,10 @@ MIT
 
 ## Changelog
 
+### v0.2026.712 (2026-07-11)
+- Added input validation
+- Daily auto-update
+
 ### v0.2026.711 (2026-07-10)
 - Added custom error classes and guards
 - Daily auto-update
